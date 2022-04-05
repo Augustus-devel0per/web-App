@@ -56,7 +56,7 @@ body{
     cursor: pointer;
     font-weight: 500;
     margin-top: 10px;
-    background: orangered;
+     background-color: orangered;
 }
 .header .txt button a{
      color: #fff;
